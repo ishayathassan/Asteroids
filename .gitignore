@@ -12,6 +12,3 @@ wheels/
 # logger file
 game_state.jsonl
 game_events.json1
-
-# agents
-CLAUDE.md

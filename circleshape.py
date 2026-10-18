@@ -1,5 +1,3 @@
-from sre_compile import dis
-
 import pygame
 
 
