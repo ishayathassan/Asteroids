@@ -9,5 +9,8 @@ wheels/
 # Virtual environments
 .venv
 
-
+# logger file
 game_state.jsonl
+
+# agents
+CLAUDE.md
